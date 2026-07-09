@@ -65,7 +65,7 @@ function App() {
 
   return (
     <div className="contenedor">
-      <h1>📝 Mis Tareas</h1>
+      <h1>📝 Tareas de Valeria</h1>
 
       <form onSubmit={agregarTarea} className="formulario">
         <input
